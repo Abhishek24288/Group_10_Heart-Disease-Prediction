@@ -1,1 +1,1 @@
-# Group_10_Heart-Disease-Prediction
+# Group_10_Heart-Disease-Prediction-A machine learning project to predict the presence of heart disease using patient health parameters. This project uses Random Forest Classifier to build a predictive model based on medical data.
